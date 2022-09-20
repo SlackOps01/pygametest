@@ -1,3 +1,4 @@
+<h1><img src="game.PNG" alt="game preview"/><h/1>
 <h1>My Space invaders Game</h1>
 <p>Entirely built with Pygame
   <ol>
