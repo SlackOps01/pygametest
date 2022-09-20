@@ -1,4 +1,4 @@
-<h1><img src="game.PNG" alt="game preview" width="400" height="300"/></h1>
+<h1><img src="game.PNG" alt="game preview" width="600" height="450"/></h1>
 <h1>My Space invaders Game</h1>
 <p>Entirely built with the Pygame module for Python
   <ol>
